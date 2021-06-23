@@ -17,4 +17,8 @@ First, we need to count up how many of each type of atom are found on each side 
 ![image](https://user-images.githubusercontent.com/79883837/123076085-25220b80-d45c-11eb-8f13-1555b83ffeba.png)<br><br>
 This equation is not balanced, because the number of each type of atom is not the same on each side. For example, the left-hand side of the equation has 2 nitrogen atoms while the right-hand side has only 1 nitrogen atom.<br><br>
 In order to balance an equation, you can only add numbers to the front of compounds. You cannot change the chemical formula of any of the compounds.<Br><br>
-A number placed in front of a compound applies to the whole compound. For example, if we add a 2 in front of KNO3, on the right-hand side of the equation, it means there is now twice as much KNO3: there are now 2xk atoms, 2×N toms, and 6×O atoms.
+A number placed in front of a compound applies to the whole compound. For example, if we add a 2 in front of KNO3, on the right-hand side of the equation, it means there is now twice as much KNO3: there are now 2xk atoms, 2×N toms, and 6×O atoms.<br><Br>
+![image](https://user-images.githubusercontent.com/79883837/123076538-96fa5500-d45c-11eb-906b-e614554a1f32.png)<br><br>
+![image](https://user-images.githubusercontent.com/79883837/123076759-c5783000-d45c-11eb-99d2-83b0c13d1b59.png)<br><br>
+The equation is still not quite balanced. The left-hand side has one K atom and one I atom, while the right-hand side has two of each of these. We can add a 2 in front of the compound KI on the left-hand side to fix this, completing the balanced equation!<br><br>
+![image](https://user-images.githubusercontent.com/79883837/123076851-d9bc2d00-d45c-11eb-9fbd-7242a5c28d28.png)
