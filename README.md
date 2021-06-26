@@ -1,4 +1,6 @@
-# Chemistry Equations
+# Chemistry 
+
+# Part 1 - Chemical Equations
 A chemical equation shows you which compounds are present before the reaction (reactants), and which compounds are present after the reaction has occurred (products). For example: <br><br>
 ![image](https://user-images.githubusercontent.com/79883837/123073835-1f2b2b00-d45a-11eb-88f3-73afd4d529d7.png)
 Just like a mathematical equation, where the numbers on each side of the equals sign must be equal in value, the number of each type of atom in a chemical equation must be the same on each side of the arrow. The arrow acts like an equals sign when balancing equations.<br><br>
@@ -22,3 +24,14 @@ A number placed in front of a compound applies to the whole compound. For exampl
 ![image](https://user-images.githubusercontent.com/79883837/123076759-c5783000-d45c-11eb-99d2-83b0c13d1b59.png)<br><br>
 The equation is still not quite balanced. The left-hand side has one K atom and one I atom, while the right-hand side has two of each of these. We can add a 2 in front of the compound KI on the left-hand side to fix this, completing the balanced equation!<br><br>
 ![image](https://user-images.githubusercontent.com/79883837/123076851-d9bc2d00-d45c-11eb-9fbd-7242a5c28d28.png)
+  
+ # Part 2 - COmparing the atomic structure of Sulfer 2-, Argon, and Potassium +1
+ Atoms are neutral particles (have no charge) because they have equal numbers of protons (+) and electrons (-). Atoms react to lose or gain electrons in order to obtain a full valence (outer) electron shell and become stable. An ion is an atom or group of atoms that has lost or gained electrons and therefore carries a charge. Ions are charged because they have unequal numbers of protons and electrons. 
+
+Sulfur is in group 16 of the periodic table, and has an atomic number of 16, therefore it has 16 electrons, 6 of which are valence electrons. The electron arrangement of a sulfur atom is 2,8,6. The atom is unstable because it does not have a full valence shell. In order to fill the valence shell and become stable, it gains two electrons to form an ion with the electron arrangement 2,8,8. The ion now has 18 negatively charged electrons and 16 positively charged protons, giving it a charge of 2-. 
+
+Argon is in group 18 of the periodic table, and has an atomic number of 18. It has 18 electrons which are arranged as 2,8,8. The valence electron shell contains 8 electrons, so it is already full and therefore the atom is stable. It does not need to gain or lose electrons in order to become stable. Ar has a charge of zero because it has 18 positively charged protons and 18 negatively charged electrons, whose charges cancel each other out. 
+
+Potassium is in group 1 of the periodic table, and has an atomic number of 19. It has 19 electrons, one of which is a valence electron. The electron arrangement of a potassium atom is 2,8,8,1. The atom is unstable because it does not have a full valence shell. In order to obtain a full valence shell and become stable, it loses one electron to form an ion with the electron arrangement 2,8,8. The ion now has 18 negatively charged electrons and 19 positively charged protons, giving it a charge of 1+. 
+
+The most stable electron arrangement for atoms is when the valence shell is full of electrons. Each of the electron shells can hold a certain number of electrons: the first shell can hold up to 2 electrons; the second shell can hold up to 8 electrons; and the third shell can also hold up to 8 electrons. When atoms gain or lose electrons to become ions, these ions have the same electron arrangement because the number of electrons needed to fill each of the electron shells is always the same. Sulfur, argon and potassium all need 8 electrons in the third electron shell to become stable. Argon already has 8 valence electrons in the third shell, so it is stable. Sulfur gains 2 electrons to have 8 valence electrons in the third shell. Potassium loses 1 electron to have 8 valence electrons in the third shell. This is why S2-, Ar and K+ all have the same electron arrangement.
